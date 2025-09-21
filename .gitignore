@@ -1,0 +1,11 @@
+.secrets.txt
+rootkey.csv
+**/.terraform/
+backup.zip
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terragrunt-cache/
+.terraformrc
+.terraform.d/
+old_staff/
